@@ -1,6 +1,5 @@
 coroutines-in-py
 ================
-----------
 #### Debez
 - [Dabez's Coroutines &amp; Concurrency (PDF)](http://www.dabeaz.com/coroutines/Coroutines.pdf)
 
