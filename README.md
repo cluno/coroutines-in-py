@@ -10,3 +10,4 @@ coroutines-in-py
 
 #### Slides
 - [Python Coroutines, Present and Future](http://www.slideshare.net/emptysquare/nyc-python-meetup-coroutines-2013-0416) 
+- [Coroutines @ PyCon 2011](http://furius.ca/home/talks/coroutines.pdf)
